@@ -1,8 +1,8 @@
 # 2022 Magnet Summit Android CTF
 
-### Scenario:
+#### Scenario:
 This CTF challenge was given in-person at the 2022 Magnet User Summit which covered a range of systems/devices. However, the Android portion of the CTF is easily available via NIST which is linked below. This CTF was assigned to CSCI-4438-01 in which a set of 15 questions had to be answered while doing analysis of the image.
-## CTF Files:
+#### CTF Files:
 The files for this Capture the Flag Challenge can be found [here](https://cfreds.nist.gov/all/MagnetForensics/2022AndroidMagnetCTF)
 
 ## Analysis Questions:
